@@ -1,0 +1,48 @@
+body{
+    background: url(../img/grid_view.jpg);
+    margin:auto;
+    padding: 0;
+    font-family: Helvetica;
+}
+
+.logo_name{
+    color: #2F3F67;
+    font-size: 14px;
+}
+/* Navbar Open */
+.nav-background{
+    background-color: #fff;
+    opacity: 90%;
+}
+/* Navbar Close */
+.social_logos{
+    margin-top: 60px;
+}
+nav ul li a{
+    font-size: 14px;
+    padding: 12px;
+}
+/* carousel image open */
+.carousel_title{
+    text-align: center;
+    margin-top: 20px;
+}
+/* Carousel image close */
+
+/* paragraph open */
+.paragraph_content{
+    text-align: justify;
+}
+.para{
+    text-align: end;
+}
+/* Paragraph Close */
+
+/* Short Notice Open */
+.short_notice{
+    text-align: center;
+}
+ /* Short Notice Closed */
+
+
+
