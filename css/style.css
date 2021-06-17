@@ -3,12 +3,43 @@ body{
     margin:auto;
     padding: 0;
     font-family: Helvetica;
-}
+    font-size: 14px !important;
+} 
 
 .logo_name{
     color: #2F3F67;
     font-size: 14px;
 }
+/* logo and social icons */
+.logo_content{
+    position: relative;
+}
+.social_logos1{
+    position: absolute;
+    top: 35% !important;
+    right: 110px;
+    padding: 2px;
+}
+.social_logos2{
+    position: absolute;
+    top: 35% !important;
+    right: 80px;
+    padding: 2px;
+}
+.social_logos3{
+    position: absolute;
+    top: 35% !important;
+    right: 50px;
+    padding: 2px;
+}
+.social_logos4{
+    position: absolute;
+    top: 35% !important;
+    right: 20px;
+    padding: 2px;
+}
+/* Logo and Social Icons Closed */
+
 /* Navbar Open */
 .nav-background{
     background-color: #fff;
@@ -16,7 +47,8 @@ body{
 }
 /* Navbar Close */
 .social_logos{
-    margin-top: 60px;
+    /* margin-top: 60px;
+    margin-left: 5px; */
 }
 nav ul li a{
     font-size: 14px;
@@ -45,4 +77,10 @@ nav ul li a{
  /* Short Notice Closed */
 
 
+ /* Sports Name List from Activities Opened */
+.sport_names li{
+    list-style: number;
+    padding: 5px;
+}
 
+ /* Sports Name List from Activities Closed */
