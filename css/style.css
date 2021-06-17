@@ -46,10 +46,6 @@ body{
     opacity: 90%;
 }
 /* Navbar Close */
-.social_logos{
-    /* margin-top: 60px;
-    margin-left: 5px; */
-}
 nav ul li a{
     font-size: 14px;
     padding: 12px;
@@ -75,7 +71,6 @@ nav ul li a{
     text-align: center;
 }
  /* Short Notice Closed */
-
 
  /* Sports Name List from Activities Opened */
 .sport_names li{
