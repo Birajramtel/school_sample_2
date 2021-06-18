@@ -73,7 +73,7 @@ nav ul li a{
  /* Short Notice Closed */
 
  /* Sports Name List from Activities Opened */
-.sport_names li{
+.numbered_list li{
     list-style: number;
     padding: 5px;
 }
